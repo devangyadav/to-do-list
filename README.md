@@ -25,13 +25,13 @@ A simple and responsive To-Do List app built with **HTML**, **CSS**, and **JavaS
    cd todo-list
 3. Open index.html in your browser to run the app.
    .
-   ├── index.html         # Main HTML file
-   ├── style.css          # Stylesheet for the app
-   ├── javascript.js      # JavaScript file for app functionality
-   ├── icon.gif           # Icon used in the title
-   ├── uncheck.png        # Unchecked task icon
-   ├── checked.png        # Checked task icon
-   └── README.md          # Project README
+   - index.html         # Main HTML file
+   - style.css          # Stylesheet for the app
+   - javascript.js      # JavaScript file for app functionality
+   - icon.gif           # Icon used in the title
+   - uncheck.png        # Unchecked task icon
+   - checked.png        # Checked task icon
+   - README.md          # Project README
 
 ## Demo
 You can try the app live here.
