@@ -31,7 +31,6 @@ A simple and responsive To-Do List app built with **HTML**, **CSS**, and **JavaS
    - icon.gif           # Icon used in the title
    - uncheck.png        # Unchecked task icon
    - checked.png        # Checked task icon
-   - README.md          # Project README
 
 ## Demo
 You can try the app live <a href="https://devangyadav.github.io/todo-list/">here</a>.
